@@ -1,0 +1,27 @@
+
+  .main{
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    margin-top: 100px;
+    background-color: darkslategrey;
+    color: white;
+    padding: 5px;
+
+  } 
+div.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+#btn{
+  font-size: 15px;
+  background-color:darkslategrey;
+  padding: 15px;
+  color: white;
+  font-weight: 10px;
+  border-radius: 15px;
+  margin-top: 15px;
+  cursor: pointer;
+}
